@@ -1,0 +1,23 @@
+.header {
+    height: 10vh;
+    background: linear-gradient(180deg, #002C83 0%, rgba(100, 0, 136, 0.73) 100%);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.right {
+    display: flex;
+    gap: 20px;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
