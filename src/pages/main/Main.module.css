@@ -1,0 +1,38 @@
+.main {
+    margin-top: 100px;
+    width: 100%;
+    display: flex;
+}
+
+.right p {
+    position: absolute;
+    right: 100px;
+    width: 635px;
+    color: #002C83;
+    text-align: right;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.right button {
+    position: absolute;
+    right: 86px;
+    top: 520px;
+    display: inline-flex;
+    min-height: 70px;
+    padding: 3px 40px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    background: linear-gradient(180deg, rgba(100, 0, 136, 0.73) 0%, #002C83 100%);
+    color: #FFF;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    border: none;
+}

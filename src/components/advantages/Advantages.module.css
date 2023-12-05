@@ -1,0 +1,26 @@
+.advantages {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.advan {
+    margin-top: 150px;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    display: flex;
+    width: 243px;
+    height: 81px;
+    min-height: 50px;
+    padding: 2px 64px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 15px;
+    border: none;
+    background: linear-gradient(180deg, rgba(100, 0, 136, 0.73) 0%, #002C83 100%);
+}
